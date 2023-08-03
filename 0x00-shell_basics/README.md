@@ -1,2 +1,1 @@
-where am i
-m
+readme of project shell basics
